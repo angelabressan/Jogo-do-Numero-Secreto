@@ -11,8 +11,8 @@ Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.i
 
  ## 💻 Demonstração
 
+https://github.com/angelabressan/Jogo-do-Numero-Secreto/assets/120230720/e530393e-b645-4e0a-bd6e-78c16b7ae042
 
-    
 
  ## 🚀 Tecnologias Utilizadas
 
