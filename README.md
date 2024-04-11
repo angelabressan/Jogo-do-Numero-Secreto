@@ -1,7 +1,7 @@
 # 💻🚀 Jogo do Número Secreto | Programa Oracle ONE Next Education
 
 
-Projeto desenvolvido usando HTML5, CSS3 & JavaScript do Jogo do Número Secreto - T6 do programa ONE.
+Projeto desenvolvido usando HTML5, CSS3 & JavaScript - Jogo do Número Secreto - T6 do programa ONE.
 
 
  ## 🔗 Link do deploy
