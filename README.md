@@ -5,7 +5,7 @@
 
 
  ## 🔗 Link do deploy
-Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.io/Jogo-do-Numero-Secreto/)
+- Veja o projeto no ar no Github Pages [Neste Link](https://angelabressan.github.io/Jogo-do-Numero-Secreto/)
 
 
 
